@@ -1,0 +1,16 @@
+# ignore jupyter backup file in any folder
+.ipynb_checkpoints/
+
+# ignore python cache file
+__pycache__/
+*.py
+
+
+
+# ignore All excel, csv data file anywhere in the project
+Data/
+*.xlsx
+*.xlsx
+*.csv
+*.pbix
+
