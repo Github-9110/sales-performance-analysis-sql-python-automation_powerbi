@@ -75,7 +75,7 @@ Sum of Order_ID = DISTINCTCOUNT(Fact_Sales[Order_ID])
 *Executive-level reporting layout demonstrating automated cross-functional tracking KPIs.*
 
 <p align="center">
-  <img src="Images/dashboard_automation.png" alt="Power BI Executive View" width="100%">
+  <img src="Dashboard/sales analysis Dashboard automation.png" alt="Power BI Executive View" width="100%">
 </p>
 
 ---
